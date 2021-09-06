@@ -7,29 +7,34 @@
 이화여자대학교 중어중문학과
 
 ```markdown
-Syntax highlighted code block
+그동안 해온 것들
 
-# Header 1
-## Header 2
-### Header 3
+# 자격증
 
-- Bulleted
-- List
+1. HSK 6급
+2. 토익 
+3. 컴활 1급
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 외부활동
 
-### Jekyll Themes
+* 대외활동
+- 서포터즈
+  - 중국어 관련
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unicornuppercut/unicornuppercut.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 기타
 
-### Support or Contact
+- **교환학생**
+- _어학연수_
+- 방문학생
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 연락처
+
+ 연락은 010-1234-5678로 부탁드립니다. 
+ 
+ 
+#### 좋아하는 사진
+
+![Image of 71835_crawl](https://cdn.hellodd.com/news/photo/202005/71835_craw1.jpg)
+
